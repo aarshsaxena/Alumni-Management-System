@@ -13,5 +13,5 @@ This is implemented by connecting Python to MySQL Database.
 
 ## Authors
 
-- [@Aarsh Saxena](https://github.com/aarshsaxena)
+- [@Aarsh Saxena](https://www.linkedin.com/in/aarshsaxena/)
 
